@@ -13,6 +13,7 @@
 9. Keep buying until we reach the sales goal of 300 Ether!
 10. After that you can check if the goal had been reached or not. ![](screenshot/goal_reached.gif)
 11. Your account balance should be reduced to something like this after the goal reached. ![](screenshot/balance_after_goal.png)
+12. You can also finalise the crowd sale contract and collect the money after the close time. But my close time is "24 weeks" later, therefore I won't show it here.
 
 ## Background
 
