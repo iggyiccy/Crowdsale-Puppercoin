@@ -1,7 +1,18 @@
 # Unit 21: You sure can attract a crowd!
 
-![crowd](Images/crowd.jpg)
-_People in Concert - Photo by [Josh Sorenson](https://www.pexels.com/@joshsorenson?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) | [Free License](https://www.pexels.com/license/)_
+## Screenshots
+
+1. After writing the smart contract, let's compile them!
+2. Compile the [PupperCoin.sol](PupperCoin.sol) first. ![](screenshot/compile_coin.gif)
+3. Deploy the PupperCoin.sol contract to your local network. ![](screenshot/puppercoin_deploy.png)
+4. Compile the [PupperCoinCrowdsale.sol](PupperCoinCrowdsale.sol). ![](screenshot/compile.gif)
+5. Note there are two contracts inside it, we will need to first deploy "PupperCoinSaleDeployer", then "PupperCoinSale". ![](screenshot/deploy_coin.gif)
+6. After deploying all of them, you should have 3 deployed contracts in your dashboard. ![](screenshot/deployed_all.png)
+7. Now you can start purchasing PupperCoin through the crowd sale contract, here is an example. ![](screenshot/buy_token.gif)
+8. You can check if the transaction successfully go through. ![](screenshot/get_balance.gif)
+9. Keep buying until we reach the sales goal of 300 Ether!
+10. After that you can check if the goal had been reached or not. ![](screenshot/goal_reached.gif)
+11. Your account balance should be reduced to something like this after the goal reached. ![](screenshot/balance_after_goal.png)
 
 ## Background
 
